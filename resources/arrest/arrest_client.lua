@@ -16,5 +16,6 @@ function arrest()
 	PLAY_ENTITY_ANIM("random@arrests@busted")
 	IS_PED_CUFFED(thePlayer)
 	PLAY_ENTITY_ANIM("get_up@cuffed")
-	SET_PLAYER_WANTED_LEVEL(int)
+	PLAYER.CLEAR_PLAYER_WANTED_LEVEL(player)
 	SET_PLAYER_WANTED_LEVEL_now(0)
+end
