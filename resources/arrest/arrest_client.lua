@@ -12,11 +12,11 @@ function tazed()
 	vector3.playerPosition.getModel.getPosition
 
 function arrest()
-	addCommandHandler("arrest")
 	IS_PLAYER_BEING_ARRESTED(thePlayer)
 	PLAY_ENTITY_ANIM("random@arrests@busted")
 	IS_PED_CUFFED(thePlayer)
 	PLAY_ENTITY_ANIM("get_up@cuffed")
 	PLAYER.CLEAR_PLAYER_WANTED_LEVEL(player)
 	SET_PLAYER_WANTED_LEVEL_now(0)
+	addCommandHandler("arrest")
 end
