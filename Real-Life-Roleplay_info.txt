@@ -1,0 +1,29 @@
+Server title: Real Life Roleplay
+
+Server Synopsis: Start a new character, find a house, and choose who you want to be ranging from Military to Police officer to Gun Dealer, to drug Dealer, to Criminal, or just an average citizen working at a market.
+
+Server Motto: "Have fun and Roleplay Real Life"
+
+List of Scripts to do:
+
+-Arrest "Ability to arrest a wanted player"
+-PoliceJob "Ability to become a cop"
+-MedicJob "Ability to become a paramedic and save lives / heal wounded players"
+-TruckerJob "Ability to deliver goods around San Andreas"
+-WantedLevel "Ability to make players wanted when they commit a crime"
+-LocalChat "Ability to have a separate chat system to broadcast to only nearby players"
+-MeCommand "Ability to roleplay what you are doing"
+-DoCommand "Ability to type /do for what you are doing after a /me command"
+-Seatbelt "Ability to attach/dettach seatbelt so your character don't fly through the windsheild"
+-VehicleSystem "Ability to lock, unlock, start and stop engine of owned vehicles"
+-AdminPanel "Ability to have an admin panel with full control with the server and ability to kick and ban or mute bad players"
+-HelpPanel "Ability to have a help panel opened when a key is pressed that shows basic info about the server and commands"
+-FireFighterJob "Ability to become a firefighter and put out fires with the fire extinguisher"
+-PrivateMessage "Ability to PM players or admins, OOC only"
+-Advertise "Ability to advertise to global chatbox"
+-SheriffJob "Become a sheriff worker"
+-DetectiveJob "Become a detective"
+-MarketJob "A job for the available markets around the map"
+-HospitalRespawn "Player respawns at hospital after death"
+-Jail "ABILITY TO HAVE A JAIL SYSTEM"
+-Merryweather "Ability to import merryweather job and guard the docks"
