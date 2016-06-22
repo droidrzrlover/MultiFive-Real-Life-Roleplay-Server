@@ -1,5 +1,5 @@
 function checkWantedLevel()
-	GET_PLAYER_WANTED_LEVEL(getPlayerID, thePlayer)
+	GET_PLAYER_WANTED_LEVEL(thePlayer, wantedLevel)
 	if thePlayer(isWanted)
 	then displayName
 	else GET_TIME_SINCE_LAST_ARREST(time)
