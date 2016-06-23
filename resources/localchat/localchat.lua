@@ -2,13 +2,13 @@ chat_range=100
  
 addEventHandler("onPlayerJoin",getRootElement(),
 function ()
-bindKey(source,"y","down","chatbox","Local")
+bindKey(source,"y","down","chat","Local")
 end)
  
 addEventHandler("onResourceStart",getResourceRootElement(getThisResource()),
 function ()
 for index, player in pairs(getElementsByType("player")) do
-bindKey(player,"y","down","chatbox","Local")
+bindKey(player,"y","down","chat","Local")
   end
 end)
  
