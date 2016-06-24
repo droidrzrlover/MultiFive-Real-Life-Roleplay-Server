@@ -6,12 +6,12 @@ Server Motto: "Have fun and Roleplay Real Life"
 
 List of Scripts to do:
 
--Arrest "Ability to arrest a wanted player"
--PoliceJob "Ability to become a cop"
--MedicJob "Ability to become a paramedic and save lives / heal wounded players"
--TruckerJob "Ability to deliver goods around San Andreas"
--WantedLevel "Ability to make players wanted when they commit a crime"
--LocalChat "Ability to have a separate chat system to broadcast to only nearby players"
+-Arrest "Ability to arrest a wanted player" (added)
+-PoliceJob "Ability to become a cop" (added, WIP)
+-MedicJob "Ability to become a paramedic and save lives / heal wounded players" (added, WIP)
+-TruckerJob "Ability to deliver goods around San Andreas" (added)
+-WantedLevel "Ability to make players wanted when they commit a crime" (added)
+-LocalChat "Ability to have a separate chat system to broadcast to only nearby players" (added)
 -MeCommand "Ability to roleplay what you are doing"
 -DoCommand "Ability to type /do for what you are doing after a /me command"
 -Seatbelt "Ability to attach/dettach seatbelt so your character don't fly through the windsheild"
@@ -27,3 +27,4 @@ List of Scripts to do:
 -HospitalRespawn "Player respawns at hospital after death"
 -Jail "ABILITY TO HAVE A JAIL SYSTEM"
 -Merryweather "Ability to import merryweather job and guard the docks"
+-VehicleRepair "Ability to repair vehicles at car shops or stations" (added)
