@@ -1,7 +1,7 @@
 function kickPlayer (theClient, commandName, kickedName, reason)
   if ( hasObjectPermissionTo ( theClient, "function.kickPlayer" ) ) then
 		--Get player element from the name
-		local kickedPlayer = getPlayerFromName ( kickedName )
+		local kickedPlayer = GetPlayerName ( kickedName )
 		
 		kickPlayer ( kickedPlayer, theClient, reason )
 	  	showNotification ( "Kick:" .. kickedName .. " has been kicked " ..Reason.. )
@@ -10,4 +10,4 @@ function kickPlayer (theClient, commandName, kickedName, reason)
 	  end
 	end
 end
-addCommandHandler ( "kick", kickPlayer )
+AddEventHandler ( "kick", kickPlayer )
