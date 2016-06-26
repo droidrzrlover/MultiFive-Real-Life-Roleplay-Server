@@ -16,7 +16,7 @@ function banPlayerCommand ( theClient, commandName, bannedName, reason )
 	end
  
 end
-addCommandHandler ( "ban", banPlayerCommand )
+addEventHandler ( "ban", banPlayerCommand )
  
 -- Example function with the root element. Here you would pass a player element to the function.
 function banCheater(theCheater)
