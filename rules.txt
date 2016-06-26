@@ -27,6 +27,14 @@ Rule 9: No Spawning vehicles, only one at a time; Warning will be issued and a b
 Rule 10: No Client Mods; Permanent ban
 
 Rule 11: Non RP Behavior is not tolerated; Warning is issued on first offense, any further offenses are dealt with a ban
+
+Rule 12: Adding weapons to self or to others is a big no no; Permanent ban immediately
+
+Rule 13: No Wandering about the map; Warning is issued, and a possible 3 day ban
+
+Rule 14: Do not go to North Yankton, you will be assumed teleporting; Kick / ban
+
+Rule 15: No Voice spamming or chat spamming; Kick / ban
  
 
 ////Admin Rules\\\\
