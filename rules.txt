@@ -24,7 +24,7 @@ Rule 8: Do not interfere with other peoples roleplay; Warning is issued and a po
 
 Rule 9: No Spawning vehicles, only one at a time; Warning will be issued and a ban for 24 hours
 
-Rule 10: No Client Mods; Permanent ban
+Rule 10: No Client Mods, client mods include car packs, texture packs, trainers, etc; Permanent ban
 
 Rule 11: Non RP Behavior is not tolerated; Warning is issued on first offense, any further offenses are dealt with a ban
 
